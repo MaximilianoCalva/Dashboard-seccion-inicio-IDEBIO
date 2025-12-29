@@ -175,12 +175,16 @@ Modifica las variables de tamaño en cada componente:
 ### Versión
 - **Actual**: 1.0.0
 - **Última actualización**: 28 de diciembre de 2025
+- **Commit inicial**: ab0f61b
 
 ### Cambios Recientes
 - ✅ Aplicación de colores institucionales oficiales (#233878, #2863A4)
 - ✅ Implementación de degradado azul institucional
 - ✅ Actualización de variables CSS
 - ✅ Mejora de accesibilidad y contraste (ratios 9.2:1 y 5.8:1)
+- ✅ Padding estandarizado a 10px en todos los componentes
+- ✅ Margins eliminados para mejor integración con WordPress
+- ✅ 7 componentes HTML completamente funcionales
 
 ## 🤝 Contribución
 
